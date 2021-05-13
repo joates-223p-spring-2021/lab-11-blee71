@@ -20,6 +20,10 @@ Alien Invasion is a popular arcade game. This game has been created by following
 
 ## Playing This Game
 
+<div align = center margin = auto> 
+  <img src = "game_img.jpg" width = 80%>
+</div>
+
 ### Cloning the Repository
 Enter the commands in the following order:
 ```
